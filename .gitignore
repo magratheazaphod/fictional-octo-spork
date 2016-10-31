@@ -1,2 +1,4 @@
+dump*
+*.tgz
 .~*
 .ipynb_checkpoints/*
