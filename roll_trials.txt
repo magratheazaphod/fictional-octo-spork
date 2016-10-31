@@ -1,0 +1,407 @@
+Mean roll product after 100 million attempted rolls: 9.01348727318e+18
+Standard deviation of roll product after 100 million attempted rolls: 5.26309604637e+18
+Mean roll product after 200 million attempted rolls: 9.01639699553e+18
+Standard deviation of roll product after 200 million attempted rolls: 5.2632293615e+18
+Mean roll product after 300 million attempted rolls: 9.01733350526e+18
+Standard deviation of roll product after 300 million attempted rolls: 5.26275397883e+18
+Mean roll product after 400 million attempted rolls: 9.01887185381e+18
+Standard deviation of roll product after 400 million attempted rolls: 5.25996101248e+18
+Mean roll product after 500 million attempted rolls: 9.01558680002e+18
+Standard deviation of roll product after 500 million attempted rolls: 5.26033772577e+18
+Mean roll product after 600 million attempted rolls: 9.01266431224e+18
+Standard deviation of roll product after 600 million attempted rolls: 5.25918735858e+18
+Mean roll product after 700 million attempted rolls: 9.01322406535e+18
+Standard deviation of roll product after 700 million attempted rolls: 5.25955155179e+18
+Mean roll product after 800 million attempted rolls: 9.01440106518e+18
+Standard deviation of roll product after 800 million attempted rolls: 5.2595459109e+18
+Mean roll product after 900 million attempted rolls: 9.01626830667e+18
+Standard deviation of roll product after 900 million attempted rolls: 5.25893453675e+18
+Mean roll product after 1000 million attempted rolls: 9.01702732726e+18
+Standard deviation of roll product after 1000 million attempted rolls: 5.25891771814e+18
+Mean roll product after 1100 million attempted rolls: 9.01800390106e+18
+Standard deviation of roll product after 1100 million attempted rolls: 5.25868484183e+18
+Mean roll product after 1200 million attempted rolls: 9.01825273946e+18
+Standard deviation of roll product after 1200 million attempted rolls: 5.25928176913e+18
+Mean roll product after 1300 million attempted rolls: 9.01813246273e+18
+Standard deviation of roll product after 1300 million attempted rolls: 5.25924583651e+18
+Mean roll product after 1400 million attempted rolls: 9.01921959956e+18
+Standard deviation of roll product after 1400 million attempted rolls: 5.2591604941e+18
+Mean roll product after 1500 million attempted rolls: 9.01961643046e+18
+Standard deviation of roll product after 1500 million attempted rolls: 5.25946795215e+18
+Mean roll product after 1600 million attempted rolls: 9.01951325026e+18
+Standard deviation of roll product after 1600 million attempted rolls: 5.25933401484e+18
+Mean roll product after 1700 million attempted rolls: 9.01960410611e+18
+Standard deviation of roll product after 1700 million attempted rolls: 5.25950404483e+18
+Mean roll product after 1800 million attempted rolls: 9.0194188972e+18
+Standard deviation of roll product after 1800 million attempted rolls: 5.25971948179e+18
+Mean roll product after 1900 million attempted rolls: 9.0197360213e+18
+Standard deviation of roll product after 1900 million attempted rolls: 5.25981619699e+18
+Mean roll product after 2000 million attempted rolls: 9.0201964979e+18
+Standard deviation of roll product after 2000 million attempted rolls: 5.25981079279e+18
+Mean roll product after 2100 million attempted rolls: 9.01943830387e+18
+Standard deviation of roll product after 2100 million attempted rolls: 5.25990041295e+18
+Mean roll product after 2200 million attempted rolls: 9.01972930386e+18
+Standard deviation of roll product after 2200 million attempted rolls: 5.25988324953e+18
+Mean roll product after 2300 million attempted rolls: 9.01980258121e+18
+Standard deviation of roll product after 2300 million attempted rolls: 5.26005785395e+18
+Mean roll product after 2400 million attempted rolls: 9.01993169521e+18
+Standard deviation of roll product after 2400 million attempted rolls: 5.259996514e+18
+Mean roll product after 2500 million attempted rolls: 9.01962026524e+18
+Standard deviation of roll product after 2500 million attempted rolls: 5.25994245623e+18
+Mean roll product after 2600 million attempted rolls: 9.0201806807e+18
+Standard deviation of roll product after 2600 million attempted rolls: 5.25969754447e+18
+Mean roll product after 2700 million attempted rolls: 9.02027740065e+18
+Standard deviation of roll product after 2700 million attempted rolls: 5.25967408306e+18
+Mean roll product after 2800 million attempted rolls: 9.02059379534e+18
+Standard deviation of roll product after 2800 million attempted rolls: 5.25970915846e+18
+Mean roll product after 2900 million attempted rolls: 9.02030822511e+18
+Standard deviation of roll product after 2900 million attempted rolls: 5.25961336066e+18
+Mean roll product after 3000 million attempted rolls: 9.02066305634e+18
+Standard deviation of roll product after 3000 million attempted rolls: 5.2598050558e+18
+Mean roll product after 3100 million attempted rolls: 9.02043587671e+18
+Standard deviation of roll product after 3100 million attempted rolls: 5.25969959179e+18
+Mean roll product after 3200 million attempted rolls: 9.01984473919e+18
+Standard deviation of roll product after 3200 million attempted rolls: 5.25992739722e+18
+Mean roll product after 3300 million attempted rolls: 9.0195632516e+18
+Standard deviation of roll product after 3300 million attempted rolls: 5.25989061581e+18
+Mean roll product after 3400 million attempted rolls: 9.0192561462e+18
+Standard deviation of roll product after 3400 million attempted rolls: 5.25994732777e+18
+Mean roll product after 3500 million attempted rolls: 9.01934267255e+18
+Standard deviation of roll product after 3500 million attempted rolls: 5.25996773522e+18
+Mean roll product after 3600 million attempted rolls: 9.0197300597e+18
+Standard deviation of roll product after 3600 million attempted rolls: 5.2599520451e+18
+Mean roll product after 3700 million attempted rolls: 9.02003819779e+18
+Standard deviation of roll product after 3700 million attempted rolls: 5.25995994132e+18
+Mean roll product after 3800 million attempted rolls: 9.02035159943e+18
+Standard deviation of roll product after 3800 million attempted rolls: 5.2599872838e+18
+Mean roll product after 3900 million attempted rolls: 9.02022613845e+18
+Standard deviation of roll product after 3900 million attempted rolls: 5.26013210969e+18
+Mean roll product after 4000 million attempted rolls: 9.0204626541e+18
+Standard deviation of roll product after 4000 million attempted rolls: 5.2603290057e+18
+Mean roll product after 4100 million attempted rolls: 9.02040837637e+18
+Standard deviation of roll product after 4100 million attempted rolls: 5.26038828323e+18
+Mean roll product after 4200 million attempted rolls: 9.02035708398e+18
+Standard deviation of roll product after 4200 million attempted rolls: 5.26026007355e+18
+Mean roll product after 4300 million attempted rolls: 9.02022573326e+18
+Standard deviation of roll product after 4300 million attempted rolls: 5.26033889369e+18
+Mean roll product after 4400 million attempted rolls: 9.02042534984e+18
+Standard deviation of roll product after 4400 million attempted rolls: 5.26024466413e+18
+Mean roll product after 4500 million attempted rolls: 9.02042326482e+18
+Standard deviation of roll product after 4500 million attempted rolls: 5.26022844592e+18
+Mean roll product after 4600 million attempted rolls: 9.02005342066e+18
+Standard deviation of roll product after 4600 million attempted rolls: 5.26026797555e+18
+Mean roll product after 4700 million attempted rolls: 9.02021513976e+18
+Standard deviation of roll product after 4700 million attempted rolls: 5.26023164804e+18
+Mean roll product after 4800 million attempted rolls: 9.02026563912e+18
+Standard deviation of roll product after 4800 million attempted rolls: 5.26041006475e+18
+Mean roll product after 4900 million attempted rolls: 9.02015979091e+18
+Standard deviation of roll product after 4900 million attempted rolls: 5.26027617286e+18
+Mean roll product after 5000 million attempted rolls: 9.02021912481e+18
+Standard deviation of roll product after 5000 million attempted rolls: 5.26026033496e+18
+Mean roll product after 5100 million attempted rolls: 9.02026792194e+18
+Standard deviation of roll product after 5100 million attempted rolls: 5.26022674995e+18
+Mean roll product after 5200 million attempted rolls: 9.02037396675e+18
+Standard deviation of roll product after 5200 million attempted rolls: 5.26017097263e+18
+Mean roll product after 5300 million attempted rolls: 9.02055621579e+18
+Standard deviation of roll product after 5300 million attempted rolls: 5.26011993709e+18
+Mean roll product after 5400 million attempted rolls: 9.02071021069e+18
+Standard deviation of roll product after 5400 million attempted rolls: 5.2601541551e+18
+Mean roll product after 5500 million attempted rolls: 9.02041099913e+18
+Standard deviation of roll product after 5500 million attempted rolls: 5.26012871613e+18
+Mean roll product after 5600 million attempted rolls: 9.02047748054e+18
+Standard deviation of roll product after 5600 million attempted rolls: 5.26005731996e+18
+Mean roll product after 5700 million attempted rolls: 9.02046604956e+18
+Standard deviation of roll product after 5700 million attempted rolls: 5.25998951234e+18
+Mean roll product after 5800 million attempted rolls: 9.02066565079e+18
+Standard deviation of roll product after 5800 million attempted rolls: 5.26002088018e+18
+Mean roll product after 5900 million attempted rolls: 9.02049699504e+18
+Standard deviation of roll product after 5900 million attempted rolls: 5.25998163498e+18
+Mean roll product after 6000 million attempted rolls: 9.02050159192e+18
+Standard deviation of roll product after 6000 million attempted rolls: 5.26000336918e+18
+Mean roll product after 6100 million attempted rolls: 9.02038992652e+18
+Standard deviation of roll product after 6100 million attempted rolls: 5.2600548986e+18
+Mean roll product after 6200 million attempted rolls: 9.02042906728e+18
+Standard deviation of roll product after 6200 million attempted rolls: 5.26000957102e+18
+Mean roll product after 6300 million attempted rolls: 9.02030044559e+18
+Standard deviation of roll product after 6300 million attempted rolls: 5.25993171542e+18
+Mean roll product after 6400 million attempted rolls: 9.02008884268e+18
+Standard deviation of roll product after 6400 million attempted rolls: 5.26002529094e+18
+Mean roll product after 6500 million attempted rolls: 9.02012891338e+18
+Standard deviation of roll product after 6500 million attempted rolls: 5.26002398942e+18
+Mean roll product after 6600 million attempted rolls: 9.02031015394e+18
+Standard deviation of roll product after 6600 million attempted rolls: 5.26002841576e+18
+Mean roll product after 6700 million attempted rolls: 9.02026122727e+18
+Standard deviation of roll product after 6700 million attempted rolls: 5.26001380919e+18
+Mean roll product after 6800 million attempted rolls: 9.02017672113e+18
+Standard deviation of roll product after 6800 million attempted rolls: 5.26008212936e+18
+Mean roll product after 6900 million attempted rolls: 9.02006388548e+18
+Standard deviation of roll product after 6900 million attempted rolls: 5.26004686286e+18
+Mean roll product after 7000 million attempted rolls: 9.01999821791e+18
+Standard deviation of roll product after 7000 million attempted rolls: 5.26004454551e+18
+Mean roll product after 7100 million attempted rolls: 9.02032583306e+18
+Standard deviation of roll product after 7100 million attempted rolls: 5.25997521261e+18
+Mean roll product after 7200 million attempted rolls: 9.02036950129e+18
+Standard deviation of roll product after 7200 million attempted rolls: 5.26001263813e+18
+Mean roll product after 7300 million attempted rolls: 9.02052724031e+18
+Standard deviation of roll product after 7300 million attempted rolls: 5.26001624113e+18
+Mean roll product after 7400 million attempted rolls: 9.02045574796e+18
+Standard deviation of roll product after 7400 million attempted rolls: 5.26005886533e+18
+Mean roll product after 7500 million attempted rolls: 9.02029532327e+18
+Standard deviation of roll product after 7500 million attempted rolls: 5.26006094255e+18
+Mean roll product after 7600 million attempted rolls: 9.02030360323e+18
+Standard deviation of roll product after 7600 million attempted rolls: 5.26011363087e+18
+Mean roll product after 7700 million attempted rolls: 9.02029353563e+18
+Standard deviation of roll product after 7700 million attempted rolls: 5.26013862591e+18
+Mean roll product after 7800 million attempted rolls: 9.02043753863e+18
+Standard deviation of roll product after 7800 million attempted rolls: 5.26008533153e+18
+Mean roll product after 7900 million attempted rolls: 9.02045609482e+18
+Standard deviation of roll product after 7900 million attempted rolls: 5.26005026141e+18
+Mean roll product after 8000 million attempted rolls: 9.02046978996e+18
+Standard deviation of roll product after 8000 million attempted rolls: 5.25998030752e+18
+Mean roll product after 8100 million attempted rolls: 9.02060436738e+18
+Standard deviation of roll product after 8100 million attempted rolls: 5.25991997018e+18
+Mean roll product after 8200 million attempted rolls: 9.02088612677e+18
+Standard deviation of roll product after 8200 million attempted rolls: 5.25989710758e+18
+Mean roll product after 8300 million attempted rolls: 9.0210942909e+18
+Standard deviation of roll product after 8300 million attempted rolls: 5.25986891312e+18
+Mean roll product after 8400 million attempted rolls: 9.02126544449e+18
+Standard deviation of roll product after 8400 million attempted rolls: 5.25992821565e+18
+Mean roll product after 8500 million attempted rolls: 9.02135515649e+18
+Standard deviation of roll product after 8500 million attempted rolls: 5.25992665532e+18
+Mean roll product after 8600 million attempted rolls: 9.02130132071e+18
+Standard deviation of roll product after 8600 million attempted rolls: 5.2599753612e+18
+Mean roll product after 8700 million attempted rolls: 9.02120548398e+18
+Standard deviation of roll product after 8700 million attempted rolls: 5.25995313094e+18
+Mean roll product after 8800 million attempted rolls: 9.02133955087e+18
+Standard deviation of roll product after 8800 million attempted rolls: 5.25992655661e+18
+Mean roll product after 8900 million attempted rolls: 9.02137213713e+18
+Standard deviation of roll product after 8900 million attempted rolls: 5.2599361349e+18
+Mean roll product after 9000 million attempted rolls: 9.02147480098e+18
+Standard deviation of roll product after 9000 million attempted rolls: 5.25998460887e+18
+Mean roll product after 9100 million attempted rolls: 9.02147390704e+18
+Standard deviation of roll product after 9100 million attempted rolls: 5.25993479741e+18
+Mean roll product after 9200 million attempted rolls: 9.02135366142e+18
+Standard deviation of roll product after 9200 million attempted rolls: 5.25992191599e+18
+Mean roll product after 9300 million attempted rolls: 9.02129902442e+18
+Standard deviation of roll product after 9300 million attempted rolls: 5.25990580628e+18
+Mean roll product after 9400 million attempted rolls: 9.02124866645e+18
+Standard deviation of roll product after 9400 million attempted rolls: 5.25993340817e+18
+Mean roll product after 9500 million attempted rolls: 9.02121001031e+18
+Standard deviation of roll product after 9500 million attempted rolls: 5.25989111379e+18
+Mean roll product after 9600 million attempted rolls: 9.02118637197e+18
+Standard deviation of roll product after 9600 million attempted rolls: 5.25978675452e+18
+Mean roll product after 9700 million attempted rolls: 9.02128242421e+18
+Standard deviation of roll product after 9700 million attempted rolls: 5.2598304716e+18
+Mean roll product after 9800 million attempted rolls: 9.02137877106e+18
+Standard deviation of roll product after 9800 million attempted rolls: 5.259852845e+18
+Mean roll product after 9900 million attempted rolls: 9.02137044053e+18
+Standard deviation of roll product after 9900 million attempted rolls: 5.25985710428e+18
+Mean roll product after 10000 million attempted rolls: 9.02150225137e+18
+Standard deviation of roll product after 10000 million attempted rolls: 5.25984936229e+18
+Mean roll product after 10100 million attempted rolls: 9.02146904257e+18
+Standard deviation of roll product after 10100 million attempted rolls: 5.259874094e+18
+Mean roll product after 10200 million attempted rolls: 9.02130183889e+18
+Standard deviation of roll product after 10200 million attempted rolls: 5.25991552648e+18
+Mean roll product after 10300 million attempted rolls: 9.02140854361e+18
+Standard deviation of roll product after 10300 million attempted rolls: 5.25993375918e+18
+Mean roll product after 10400 million attempted rolls: 9.02155974727e+18
+Standard deviation of roll product after 10400 million attempted rolls: 5.25990725751e+18
+Mean roll product after 10500 million attempted rolls: 9.02161480643e+18
+Standard deviation of roll product after 10500 million attempted rolls: 5.25989864199e+18
+Mean roll product after 10600 million attempted rolls: 9.02154277912e+18
+Standard deviation of roll product after 10600 million attempted rolls: 5.25995537136e+18
+Mean roll product after 10700 million attempted rolls: 9.0213994417e+18
+Standard deviation of roll product after 10700 million attempted rolls: 5.25990473987e+18
+Mean roll product after 10800 million attempted rolls: 9.02152749287e+18
+Standard deviation of roll product after 10800 million attempted rolls: 5.25984572703e+18
+Mean roll product after 10900 million attempted rolls: 9.02148996547e+18
+Standard deviation of roll product after 10900 million attempted rolls: 5.25988257111e+18
+Mean roll product after 11000 million attempted rolls: 9.0215422061e+18
+Standard deviation of roll product after 11000 million attempted rolls: 5.25983498525e+18
+Mean roll product after 11100 million attempted rolls: 9.02148433331e+18
+Standard deviation of roll product after 11100 million attempted rolls: 5.25990129438e+18
+Mean roll product after 11200 million attempted rolls: 9.02134119347e+18
+Standard deviation of roll product after 11200 million attempted rolls: 5.25991745592e+18
+Mean roll product after 11300 million attempted rolls: 9.02132427845e+18
+Standard deviation of roll product after 11300 million attempted rolls: 5.25989406397e+18
+Mean roll product after 11400 million attempted rolls: 9.02129427178e+18
+Standard deviation of roll product after 11400 million attempted rolls: 5.25987594408e+18
+Mean roll product after 11500 million attempted rolls: 9.02136939374e+18
+Standard deviation of roll product after 11500 million attempted rolls: 5.25986613032e+18
+Mean roll product after 11600 million attempted rolls: 9.02142169132e+18
+Standard deviation of roll product after 11600 million attempted rolls: 5.25988065959e+18
+Mean roll product after 11700 million attempted rolls: 9.02138135236e+18
+Standard deviation of roll product after 11700 million attempted rolls: 5.2598664526e+18
+Mean roll product after 11800 million attempted rolls: 9.02127450334e+18
+Standard deviation of roll product after 11800 million attempted rolls: 5.25985687e+18
+Mean roll product after 11900 million attempted rolls: 9.02120344757e+18
+Standard deviation of roll product after 11900 million attempted rolls: 5.25982357357e+18
+Mean roll product after 12000 million attempted rolls: 9.02127423134e+18
+Standard deviation of roll product after 12000 million attempted rolls: 5.25985068457e+18
+Mean roll product after 12100 million attempted rolls: 9.02135992243e+18
+Standard deviation of roll product after 12100 million attempted rolls: 5.25984353139e+18
+Mean roll product after 12200 million attempted rolls: 9.02129845741e+18
+Standard deviation of roll product after 12200 million attempted rolls: 5.25982915359e+18
+Mean roll product after 12300 million attempted rolls: 9.02140616573e+18
+Standard deviation of roll product after 12300 million attempted rolls: 5.25988904983e+18
+Mean roll product after 12400 million attempted rolls: 9.02128773672e+18
+Standard deviation of roll product after 12400 million attempted rolls: 5.25990405658e+18
+Mean roll product after 12500 million attempted rolls: 9.02126642131e+18
+Standard deviation of roll product after 12500 million attempted rolls: 5.25992713159e+18
+Mean roll product after 12600 million attempted rolls: 9.02120437929e+18
+Standard deviation of roll product after 12600 million attempted rolls: 5.25992689093e+18
+Mean roll product after 12700 million attempted rolls: 9.0213470339e+18
+Standard deviation of roll product after 12700 million attempted rolls: 5.2599290685e+18
+Mean roll product after 12800 million attempted rolls: 9.02136834145e+18
+Standard deviation of roll product after 12800 million attempted rolls: 5.25989268727e+18
+Mean roll product after 12900 million attempted rolls: 9.02136340755e+18
+Standard deviation of roll product after 12900 million attempted rolls: 5.25993808332e+18
+Mean roll product after 13000 million attempted rolls: 9.0214010266e+18
+Standard deviation of roll product after 13000 million attempted rolls: 5.25989827788e+18
+Mean roll product after 13100 million attempted rolls: 9.02145090513e+18
+Standard deviation of roll product after 13100 million attempted rolls: 5.25994334441e+18
+Mean roll product after 13200 million attempted rolls: 9.02144451366e+18
+Standard deviation of roll product after 13200 million attempted rolls: 5.25990850246e+18
+Mean roll product after 13300 million attempted rolls: 9.02148672484e+18
+Standard deviation of roll product after 13300 million attempted rolls: 5.25988987738e+18
+Mean roll product after 13400 million attempted rolls: 9.02138886453e+18
+Standard deviation of roll product after 13400 million attempted rolls: 5.25985260757e+18
+Mean roll product after 13500 million attempted rolls: 9.02139638032e+18
+Standard deviation of roll product after 13500 million attempted rolls: 5.25987708024e+18
+Mean roll product after 13600 million attempted rolls: 9.02134648296e+18
+Standard deviation of roll product after 13600 million attempted rolls: 5.2599272097e+18
+Mean roll product after 13700 million attempted rolls: 9.02140262477e+18
+Standard deviation of roll product after 13700 million attempted rolls: 5.25991585786e+18
+Mean roll product after 13800 million attempted rolls: 9.02145320854e+18
+Standard deviation of roll product after 13800 million attempted rolls: 5.25993278241e+18
+Mean roll product after 13900 million attempted rolls: 9.0215332253e+18
+Standard deviation of roll product after 13900 million attempted rolls: 5.25991317061e+18
+Mean roll product after 14000 million attempted rolls: 9.02142357169e+18
+Standard deviation of roll product after 14000 million attempted rolls: 5.2599427876e+18
+Mean roll product after 14100 million attempted rolls: 9.02141791789e+18
+Standard deviation of roll product after 14100 million attempted rolls: 5.25991217819e+18
+Mean roll product after 14200 million attempted rolls: 9.02140680249e+18
+Standard deviation of roll product after 14200 million attempted rolls: 5.25990428832e+18
+Mean roll product after 14300 million attempted rolls: 9.02137417462e+18
+Standard deviation of roll product after 14300 million attempted rolls: 5.25990465092e+18
+Mean roll product after 14400 million attempted rolls: 9.02134157592e+18
+Standard deviation of roll product after 14400 million attempted rolls: 5.25994550693e+18
+Mean roll product after 14500 million attempted rolls: 9.02132611984e+18
+Standard deviation of roll product after 14500 million attempted rolls: 5.25994601306e+18
+Mean roll product after 14600 million attempted rolls: 9.02148497846e+18
+Standard deviation of roll product after 14600 million attempted rolls: 5.25995626341e+18
+Mean roll product after 14700 million attempted rolls: 9.02148073705e+18
+Standard deviation of roll product after 14700 million attempted rolls: 5.25993383921e+18
+Mean roll product after 14800 million attempted rolls: 9.02149078352e+18
+Standard deviation of roll product after 14800 million attempted rolls: 5.25993328142e+18
+Mean roll product after 14900 million attempted rolls: 9.02153398561e+18
+Standard deviation of roll product after 14900 million attempted rolls: 5.25996662709e+18
+Mean roll product after 15000 million attempted rolls: 9.02151142555e+18
+Standard deviation of roll product after 15000 million attempted rolls: 5.25993445972e+18
+Mean roll product after 15100 million attempted rolls: 9.02151326732e+18
+Standard deviation of roll product after 15100 million attempted rolls: 5.25993138907e+18
+Mean roll product after 15200 million attempted rolls: 9.0214387346e+18
+Standard deviation of roll product after 15200 million attempted rolls: 5.25997326655e+18
+Mean roll product after 15300 million attempted rolls: 9.02140697367e+18
+Standard deviation of roll product after 15300 million attempted rolls: 5.25996435948e+18
+Mean roll product after 15400 million attempted rolls: 9.02144313141e+18
+Standard deviation of roll product after 15400 million attempted rolls: 5.25994381878e+18
+Mean roll product after 15500 million attempted rolls: 9.02145413305e+18
+Standard deviation of roll product after 15500 million attempted rolls: 5.25996680769e+18
+Mean roll product after 15600 million attempted rolls: 9.02143377056e+18
+Standard deviation of roll product after 15600 million attempted rolls: 5.25997410736e+18
+Mean roll product after 15700 million attempted rolls: 9.0214152844e+18
+Standard deviation of roll product after 15700 million attempted rolls: 5.25997894451e+18
+Mean roll product after 15800 million attempted rolls: 9.02143194222e+18
+Standard deviation of roll product after 15800 million attempted rolls: 5.25997980039e+18
+Mean roll product after 15900 million attempted rolls: 9.02140565479e+18
+Standard deviation of roll product after 15900 million attempted rolls: 5.26001257059e+18
+Mean roll product after 16000 million attempted rolls: 9.02133821945e+18
+Standard deviation of roll product after 16000 million attempted rolls: 5.25999626878e+18
+Mean roll product after 16100 million attempted rolls: 9.021221218e+18
+Standard deviation of roll product after 16100 million attempted rolls: 5.25998550059e+18
+Mean roll product after 16200 million attempted rolls: 9.02124365052e+18
+Standard deviation of roll product after 16200 million attempted rolls: 5.26000029524e+18
+Mean roll product after 16300 million attempted rolls: 9.02125786379e+18
+Standard deviation of roll product after 16300 million attempted rolls: 5.26004232526e+18
+Mean roll product after 16400 million attempted rolls: 9.02131229413e+18
+Standard deviation of roll product after 16400 million attempted rolls: 5.2600241509e+18
+Mean roll product after 16500 million attempted rolls: 9.02123418434e+18
+Standard deviation of roll product after 16500 million attempted rolls: 5.26004774702e+18
+Mean roll product after 16600 million attempted rolls: 9.02122859961e+18
+Standard deviation of roll product after 16600 million attempted rolls: 5.26006196523e+18
+Mean roll product after 16700 million attempted rolls: 9.02116880545e+18
+Standard deviation of roll product after 16700 million attempted rolls: 5.26000964467e+18
+Mean roll product after 16800 million attempted rolls: 9.02116450481e+18
+Standard deviation of roll product after 16800 million attempted rolls: 5.26004601367e+18
+Mean roll product after 16900 million attempted rolls: 9.02119729208e+18
+Standard deviation of roll product after 16900 million attempted rolls: 5.26002618846e+18
+Mean roll product after 17000 million attempted rolls: 9.02121890494e+18
+Standard deviation of roll product after 17000 million attempted rolls: 5.26002560895e+18
+Mean roll product after 17100 million attempted rolls: 9.02128702189e+18
+Standard deviation of roll product after 17100 million attempted rolls: 5.26003424269e+18
+Mean roll product after 17200 million attempted rolls: 9.02123215024e+18
+Standard deviation of roll product after 17200 million attempted rolls: 5.26004962779e+18
+Mean roll product after 17300 million attempted rolls: 9.02127506617e+18
+Standard deviation of roll product after 17300 million attempted rolls: 5.26003398278e+18
+Mean roll product after 17400 million attempted rolls: 9.02131789856e+18
+Standard deviation of roll product after 17400 million attempted rolls: 5.26002896295e+18
+Mean roll product after 17500 million attempted rolls: 9.02132218662e+18
+Standard deviation of roll product after 17500 million attempted rolls: 5.26000763405e+18
+Mean roll product after 17600 million attempted rolls: 9.02136391493e+18
+Standard deviation of roll product after 17600 million attempted rolls: 5.25997305999e+18
+Mean roll product after 17700 million attempted rolls: 9.021379238e+18
+Standard deviation of roll product after 17700 million attempted rolls: 5.25998180836e+18
+Mean roll product after 17800 million attempted rolls: 9.02146270757e+18
+Standard deviation of roll product after 17800 million attempted rolls: 5.25997153536e+18
+Mean roll product after 17900 million attempted rolls: 9.02145506069e+18
+Standard deviation of roll product after 17900 million attempted rolls: 5.26001618374e+18
+Mean roll product after 18000 million attempted rolls: 9.02143411042e+18
+Standard deviation of roll product after 18000 million attempted rolls: 5.26001253078e+18
+Mean roll product after 18100 million attempted rolls: 9.02145710433e+18
+Standard deviation of roll product after 18100 million attempted rolls: 5.26003446448e+18
+Mean roll product after 18200 million attempted rolls: 9.02143073252e+18
+Standard deviation of roll product after 18200 million attempted rolls: 5.26002783364e+18
+Mean roll product after 18300 million attempted rolls: 9.02138905922e+18
+Standard deviation of roll product after 18300 million attempted rolls: 5.26005722304e+18
+Mean roll product after 18400 million attempted rolls: 9.02139366597e+18
+Standard deviation of roll product after 18400 million attempted rolls: 5.26006311554e+18
+Mean roll product after 18500 million attempted rolls: 9.02145023786e+18
+Standard deviation of roll product after 18500 million attempted rolls: 5.26007098352e+18
+Mean roll product after 18600 million attempted rolls: 9.02145970188e+18
+Standard deviation of roll product after 18600 million attempted rolls: 5.26008078034e+18
+Mean roll product after 18700 million attempted rolls: 9.02148665183e+18
+Standard deviation of roll product after 18700 million attempted rolls: 5.26007121983e+18
+Mean roll product after 18800 million attempted rolls: 9.0214357025e+18
+Standard deviation of roll product after 18800 million attempted rolls: 5.26005109332e+18
+Mean roll product after 18900 million attempted rolls: 9.02145390999e+18
+Standard deviation of roll product after 18900 million attempted rolls: 5.26006393826e+18
+Mean roll product after 19000 million attempted rolls: 9.02146974566e+18
+Standard deviation of roll product after 19000 million attempted rolls: 5.26006411508e+18
+Mean roll product after 19100 million attempted rolls: 9.02147938153e+18
+Standard deviation of roll product after 19100 million attempted rolls: 5.26007853012e+18
+Mean roll product after 19200 million attempted rolls: 9.02147585874e+18
+Standard deviation of roll product after 19200 million attempted rolls: 5.26006742999e+18
+Mean roll product after 19300 million attempted rolls: 9.02147573731e+18
+Standard deviation of roll product after 19300 million attempted rolls: 5.2600537877e+18
+Mean roll product after 19400 million attempted rolls: 9.02150926812e+18
+Standard deviation of roll product after 19400 million attempted rolls: 5.26003610528e+18
+Mean roll product after 19500 million attempted rolls: 9.02156019276e+18
+Standard deviation of roll product after 19500 million attempted rolls: 5.2600309916e+18
+Mean roll product after 19600 million attempted rolls: 9.02156850696e+18
+Standard deviation of roll product after 19600 million attempted rolls: 5.26000690727e+18
+Mean roll product after 19700 million attempted rolls: 9.02156332105e+18
+Standard deviation of roll product after 19700 million attempted rolls: 5.25997876783e+18
+Mean roll product after 19800 million attempted rolls: 9.02151613181e+18
+Standard deviation of roll product after 19800 million attempted rolls: 5.25997169389e+18
+Mean roll product after 19900 million attempted rolls: 9.02155415911e+18
+Standard deviation of roll product after 19900 million attempted rolls: 5.25995842995e+18
+Mean roll product after 20000 million attempted rolls: 9.02150370259e+18
+Standard deviation of roll product after 20000 million attempted rolls: 5.25994162662e+18
+Mean roll product after 20100 million attempted rolls: 9.02145782649e+18
+Standard deviation of roll product after 20100 million attempted rolls: 5.25997563792e+18
+Mean roll product after 20200 million attempted rolls: 9.02140362482e+18
+Standard deviation of roll product after 20200 million attempted rolls: 5.25998011712e+18
+Mean roll product after 20300 million attempted rolls: 9.02147067184e+18
+Standard deviation of roll product after 20300 million attempted rolls: 5.25997279117e+18
+Mean roll product after 20400 million attempted rolls:
